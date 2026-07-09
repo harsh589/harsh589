@@ -1,4 +1,3 @@
-
 <!-- ===================== BANNER ===================== -->
 <div align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=0:6DB33F,100:007396&height=200&section=header&text=Harsh%20Yadav&fontSize=60&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Java%20Backend%20Developer%20%7C%20Spring%20Boot%20%7C%20Microservices&descAlignY=58&descSize=18" width="100%" />
@@ -36,32 +35,39 @@
 
 ---
 
-## 👨‍💻 About Me
+## 🚀 About Me
 
-```java
-public class HarshYadav {
-    private String role        = "Java Backend Developer";
-    private String company     = "Cognizant";
-    private String location    = "Noida, India";
-    private String[] focus     = {"Microservices", "REST APIs", "Event-Driven Systems"};
-    private String education   = "B.Tech in Computer Science Engineering";
+<img align="right" alt="Coding" width="380" src="https://raw.githubusercontent.com/devSouvik/devSouvik/master/gif3.gif" />
 
-    public String[] getCurrentWork() {
-        return new String[]{
-            "🚀 Building scalable RESTful APIs with Spring Boot",
-            "🌐 Developing API proxies on Apigee X (Dev, QAB, QAA, Prod)",
-            "🔐 Implementing JWT auth, rate limiting & fault handling",
-            "📨 Integrating Apache Kafka for async communication"
-        };
-    }
-}
+<div>
+
+> ### 💚 *Turning complex business logic into clean, scalable backend services.*
+
+🔭 &nbsp; I'm currently a **Backend & API Developer** at **Cognizant**, crafting production-grade RESTful APIs and microservices.
+
+🌱 &nbsp; Deepening my expertise in **distributed systems**, **API gateways**, and **event-driven architecture**.
+
+💚 &nbsp; Passionate about **Spring Boot**, **Microservices**, and building resilient systems with **Apache Kafka**.
+
+🎯 &nbsp; I love solving real-world problems — from **debugging critical payment bugs** to **shipping features to production**.
+
+🤝 &nbsp; Comfortable working in **Agile/Scrum** teams with a Jira-based workflow.
+
+📫 &nbsp; Reach me at **harshyadav1457@gmail.com**
+
+⚡ &nbsp; *Fun fact:* I enjoy optimizing APIs almost as much as I enjoy a well-brewed cup of coffee ☕
+
+</div>
+
+<br />
+
+<div align="center">
+
+```text
+"First, solve the problem. Then, write the code." — John Johnson
 ```
 
-- 🔭 Currently working as a **Backend & API Developer @ Cognizant**
-- 🌱 Deepening my expertise in **distributed systems, API gateways & event-driven architecture**
-- 💬 Ask me about **Spring Boot, Microservices, Kafka, REST APIs, Apigee, JWT**
-- 🧩 I love turning complex business logic into clean, scalable backend services
-- 📫 Reach me at **harshyadav1457@gmail.com**
+</div>
 
 ---
 
@@ -186,16 +192,21 @@ Tracks the top cryptocurrencies with live prices, 24h changes & detailed coin st
 ## 📊 GitHub Stats
 
 <div align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=harsh589&show_icons=true&theme=vue&include_all_commits=true&count_private=true&hide_border=true&title_color=6DB33F&icon_color=6DB33F" alt="GitHub Stats" />
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=harsh589&layout=compact&theme=vue&hide_border=true&title_color=6DB33F&langs_count=8" alt="Top Languages" />
+  <img height="165em" src="https://github-readme-stats.vercel.app/api?username=harsh589&show_icons=true&theme=vue&include_all_commits=true&count_private=true&hide_border=true&title_color=6DB33F&icon_color=6DB33F&text_color=c9d1d9&bg_color=0d1117" alt="Harsh's GitHub Stats" />
+&nbsp;
+  <img height="165em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=harsh589&layout=compact&theme=vue&hide_border=true&title_color=6DB33F&text_color=c9d1d9&bg_color=0d1117&langs_count=8" alt="Top Languages" />
 </div>
 
-<div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=harsh589&theme=vue&hide_border=true&fire=6DB33F&ring=6DB33F&currStreakLabel=6DB33F" alt="GitHub Streak" />
-</div>
+<br />
 
 <div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=harsh589&theme=github-compact&color=6DB33F&line=6DB33F&point=007396&hide_border=true" alt="Activity Graph" />
+  <img src="https://streak-stats.demolab.com?user=harsh589&theme=vue&hide_border=true&background=0d1117&stroke=6DB33F&ring=6DB33F&fire=6DB33F&currStreakLabel=6DB33F&sideLabels=c9d1d9&dates=c9d1d9&currStreakNum=c9d1d9&sideNums=c9d1d9" alt="GitHub Streak" />
+</div>
+
+<br />
+
+<div align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=harsh589&bg_color=0d1117&color=6DB33F&line=6DB33F&point=007396&area=true&hide_border=true" alt="Contribution Graph" />
 </div>
 
 ---
@@ -203,7 +214,7 @@ Tracks the top cryptocurrencies with live prices, 24h changes & detailed coin st
 ## 🏆 GitHub Trophies
 
 <div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=harsh589&theme=flat&no-frame=true&column=7&margin-w=5&title_color=6DB33F" alt="GitHub Trophies" />
+  <img src="https://github-profile-trophy.vercel.app/?username=harsh589&theme=onedark&no-frame=true&no-bg=true&column=7&margin-w=5&margin-h=5" alt="GitHub Trophies" />
 </div>
 
 ---
@@ -213,16 +224,6 @@ Tracks the top cryptocurrencies with live prices, 24h changes & detailed coin st
 **🏫 Noida Institute of Engineering & Technology**
 *Bachelor of Technology — Computer Science Engineering* · `Aug 2020 – Jun 2024`
 📈 **CGPA: 8.4**
-
----
-
-## 💡 What I Bring to the Table
-
-- 🧠 Strong grasp of **microservices design patterns** — service discovery, circuit breakers, API gateways
-- ⚡ Experience shipping to **production** in high-traffic B2C environments
-- 🔐 Hands-on with **API security** — JWT, CORS, rate limiting, fault handling
-- 📨 Building **resilient, event-driven** systems with Apache Kafka
-- 🤝 Comfortable in **Agile/Scrum** teams with Jira-based workflows
 
 ---
 
