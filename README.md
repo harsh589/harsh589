@@ -209,15 +209,6 @@ Tracks the top cryptocurrencies with live prices, 24h changes & detailed coin st
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=harsh589&bg_color=0d1117&color=6DB33F&line=6DB33F&point=007396&area=true&hide_border=true" alt="Contribution Graph" />
 </div>
 
----
-
-## 🏆 GitHub Trophies
-
-<div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=harsh589&theme=onedark&no-frame=true&no-bg=true&column=7&margin-w=5&margin-h=5" alt="GitHub Trophies" />
-</div>
-
----
 
 ## 🎓 Education
 
