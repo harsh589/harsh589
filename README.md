@@ -12,7 +12,7 @@
 
 <!-- ===================== SOCIAL BADGES ===================== -->
 <div align="center">
-  <a href="https://linkedin.com/in/harsh-yadav" target="_blank">
+  <a href="https://www.linkedin.com/in/harsh-yadav-2b6223204/" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
   </a>
   <a href="mailto:harshyadav1457@gmail.com">
