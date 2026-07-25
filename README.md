@@ -1,19 +1,19 @@
 <!-- ===================== BANNER ===================== -->
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:6DB33F,100:007396&height=200&section=header&text=Harsh%20Yadav&fontSize=60&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Java%20Backend%20Developer%20%7C%20Spring%20Boot%20%7C%20Microservices&descAlignY=58&descSize=18" width="100%" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:FF0000,100:8B0000&height=200&section=header&text=Harsh%20Yadav&fontSize=60&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Java%20Backend%20Developer%20%7C%20Spring%20Boot%20%7C%20Microservices&descAlignY=58&descSize=18" width="100%" />
 </div>
 
 <!-- ===================== TYPING INTRO ===================== -->
 <div align="center">
   <a href="https://github.com/harsh589">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=3000&pause=1000&color=6DB33F&center=true&vCenter=true&width=600&lines=Java+Backend+Developer;Spring+Boot+%26+Microservices+Enthusiast;Building+Scalable+RESTful+APIs;Event-Driven+Systems+with+Apache+Kafka;API+Gateway+%7C+JWT+%7C+Service+Discovery" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=3000&pause=1000&color=FF0000&center=true&vCenter=true&width=600&lines=Java+Backend+Developer;Spring+Boot+%26+Microservices+Enthusiast;Building+Scalable+RESTful+APIs;Event-Driven+Systems+with+Apache+Kafka;API+Gateway+%7C+JWT+%7C+Service+Discovery" alt="Typing SVG" />
   </a>
 </div>
 
 <!-- ===================== SOCIAL BADGES ===================== -->
 <div align="center">
   <a href="https://www.linkedin.com/in/harsh-yadav-2b6223204/" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+    <img src="https://img.shields.io/badge/LinkedIn-B71C1C?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
   </a>
   <a href="mailto:harshyadav1457@gmail.com">
     <img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail" />
@@ -21,14 +21,14 @@
   <a href="https://github.com/harsh589" target="_blank">
     <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
   </a>
-  <img src="https://img.shields.io/badge/📍_Noida,_India-4CAF50?style=for-the-badge" alt="Location" />
+  <img src="https://img.shields.io/badge/📍_Noida,_India-FF0000?style=for-the-badge" alt="Location" />
 </div>
 
 <br />
 
 <!-- ===================== PROFILE VIEWS + FOLLOWERS ===================== -->
 <div align="center">
-  <img src="https://komarev.com/ghpvc/?username=harsh589&label=Profile%20Views&color=6DB33F&style=flat" alt="Profile Views" />
+  <img src="https://komarev.com/ghpvc/?username=harsh589&label=Profile%20Views&color=FF0000&style=flat" alt="Profile Views" />
   <img src="https://img.shields.io/github/followers/harsh589?label=Followers&style=social" alt="Followers" />
   <img src="https://img.shields.io/github/stars/harsh589?label=Stars&style=social" alt="Stars" />
 </div>
@@ -41,13 +41,13 @@
 
 <div>
 
-> ### 💚 *Turning complex business logic into clean, scalable backend services.*
+> ### ❤️ *Turning complex business logic into clean, scalable backend services.*
 
 🔭 &nbsp; I'm currently a **Backend & API Developer** at **Cognizant**, crafting production-grade RESTful APIs and microservices.
 
 🌱 &nbsp; Deepening my expertise in **distributed systems**, **API gateways**, and **event-driven architecture**.
 
-💚 &nbsp; Passionate about **Spring Boot**, **Microservices**, and building resilient systems with **Apache Kafka**.
+❤️ &nbsp; Passionate about **Spring Boot**, **Microservices**, and building resilient systems with **Apache Kafka**.
 
 🎯 &nbsp; I love solving real-world problems — from **debugging critical payment bugs** to **shipping features to production**.
 
@@ -183,7 +183,7 @@ Tracks the top cryptocurrencies with live prices, 24h changes & detailed coin st
 
 <div align="center">
   <a href="https://github.com/harsh589?tab=repositories">
-    <img src="https://img.shields.io/badge/View_All_Projects-6DB33F?style=for-the-badge&logo=github&logoColor=white" alt="View All Projects" />
+    <img src="https://img.shields.io/badge/View_All_Projects-B71C1C?style=for-the-badge&logo=github&logoColor=white" alt="View All Projects" />
   </a>
 </div>
 
@@ -191,22 +191,17 @@ Tracks the top cryptocurrencies with live prices, 24h changes & detailed coin st
 
 ## 📊 GitHub Stats
 
+<br />
+
 <div align="center">
-  <img height="165em" src="https://github-readme-stats.vercel.app/api?username=harsh589&show_icons=true&theme=vue&include_all_commits=true&count_private=true&hide_border=true&title_color=6DB33F&icon_color=6DB33F&text_color=c9d1d9&bg_color=0d1117" alt="Harsh's GitHub Stats" />
-&nbsp;
-  <img height="165em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=harsh589&layout=compact&theme=vue&hide_border=true&title_color=6DB33F&text_color=c9d1d9&bg_color=0d1117&langs_count=8" alt="Top Languages" />
+  <img src="https://streak-stats.demolab.com?user=harsh589&theme=highcontrast&hide_border=true&background=0a0a0a&stroke=FF0000&ring=FF0000&fire=FF3131&currStreakLabel=FF0000&sideLabels=FF0000&dates=c9d1d9&currStreakNum=c9d1d9&sideNums=c9d1d9" alt="GitHub Streak" />
 </div>
 
 <br />
 
+<!-- Ben 10 themed contribution graph (Red Omnitrix) -->
 <div align="center">
-  <img src="https://streak-stats.demolab.com?user=harsh589&theme=vue&hide_border=true&background=0d1117&stroke=6DB33F&ring=6DB33F&fire=6DB33F&currStreakLabel=6DB33F&sideLabels=c9d1d9&dates=c9d1d9&currStreakNum=c9d1d9&sideNums=c9d1d9" alt="GitHub Streak" />
-</div>
-
-<br />
-
-<div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=harsh589&bg_color=0d1117&color=6DB33F&line=6DB33F&point=007396&area=true&hide_border=true" alt="Contribution Graph" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=harsh589&bg_color=0a0a0a&color=FF0000&line=FF0000&point=FF3131&area=true&area_color=FF0000&hide_border=true&custom_title=Omnitrix%20Activity%20Log" alt="Ben 10 Themed Contribution Graph" />
 </div>
 
 
@@ -223,7 +218,7 @@ Tracks the top cryptocurrencies with live prices, 24h changes & detailed coin st
 ### 💬 Let's Connect & Build Something Great!
 
 <a href="https://linkedin.com/in/harsh-yadav" target="_blank">
-  <img src="https://img.shields.io/badge/Connect_on_LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+  <img src="https://img.shields.io/badge/Connect_on_LinkedIn-B71C1C?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
 </a>
 <a href="mailto:harshyadav1457@gmail.com">
   <img src="https://img.shields.io/badge/Send_an_Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
@@ -231,7 +226,7 @@ Tracks the top cryptocurrencies with live prices, 24h changes & detailed coin st
 
 <br /><br />
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:007396,100:6DB33F&height=120&section=footer" width="100%" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:8B0000,100:FF0000&height=120&section=footer" width="100%" />
 
 **⭐ Thanks for visiting! Feel free to explore my repositories.**
 
