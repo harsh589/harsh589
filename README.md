@@ -1,7 +1,3 @@
-<!-- ===================== BANNER ===================== -->
-<div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:FF0000,100:8B0000&height=200&section=header&text=Harsh%20Yadav&fontSize=60&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Java%20Backend%20Developer%20%7C%20Spring%20Boot%20%7C%20Microservices&descAlignY=58&descSize=18" width="100%" />
-</div>
 
 <!-- ===================== BANNER ===================== -->
 <div align="center">
