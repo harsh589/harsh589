@@ -3,6 +3,16 @@
   <img src="https://capsule-render.vercel.app/api?type=waving&color=0:FF0000,100:8B0000&height=200&section=header&text=Harsh%20Yadav&fontSize=60&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Java%20Backend%20Developer%20%7C%20Spring%20Boot%20%7C%20Microservices&descAlignY=58&descSize=18" width="100%" />
 </div>
 
+<!-- ===================== BANNER ===================== -->
+<div align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:FF0000,100:8B0000&height=200&section=header&text=Harsh%20Yadav&fontSize=60&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Java%20Backend%20Developer%20%7C%20Spring%20Boot%20%7C%20Microservices&descAlignY=58&descSize=18" width="100%" />
+</div>
+
+<!-- ===================== HANGING SPIDER-MAN 🕷️ ===================== -->
+<div align="right" style="margin-top:-70px;">
+  <img src="https://raw.githubusercontent.com/harsh589/harsh589/main/assets/hanging-spiderman.svg" width="140" alt="Hanging Spider-Man" />
+</div>
+
 <!-- ===================== TYPING INTRO ===================== -->
 <div align="center">
   <a href="https://github.com/harsh589">
