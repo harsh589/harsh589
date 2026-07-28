@@ -4,16 +4,17 @@
   <img src="https://capsule-render.vercel.app/api?type=waving&color=0:FF0000,100:8B0000&height=200&section=header&text=Harsh%20Yadav&fontSize=60&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Java%20Backend%20Developer%20%7C%20Spring%20Boot%20%7C%20Microservices&descAlignY=58&descSize=18" width="100%" />
 </div>
 
-<!-- ===================== HANGING SPIDER-MAN 🕷️ ===================== -->
-<div align="right" style="margin-top:-70px;">
-  <img src="https://raw.githubusercontent.com/harsh589/harsh589/main/assets/hanging-spiderman.svg" width="140" alt="Hanging Spider-Man" />
-</div>
+
 
 <!-- ===================== TYPING INTRO ===================== -->
 <div align="center">
   <a href="https://github.com/harsh589">
     <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=3000&pause=1000&color=FF0000&center=true&vCenter=true&width=600&lines=Java+Backend+Developer;Spring+Boot+%26+Microservices+Enthusiast;Building+Scalable+RESTful+APIs;Event-Driven+Systems+with+Apache+Kafka;API+Gateway+%7C+JWT+%7C+Service+Discovery" alt="Typing SVG" />
   </a>
+</div>
+<!-- ===================== HANGING SPIDER-MAN 🕷️ ===================== -->
+<div align="right" style="margin-top:-70px;">
+  <img src="https://raw.githubusercontent.com/harsh589/harsh589/main/assets/hanging-spiderman.svg" width="140" alt="Hanging Spider-Man" />
 </div>
 
 <!-- ===================== SOCIAL BADGES ===================== -->
