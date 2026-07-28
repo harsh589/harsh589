@@ -13,9 +13,6 @@
   </a>
 </div>
 <!-- ===================== HANGING SPIDER-MAN 🕷️ ===================== -->
-<div align="right" style="margin-top:-70px;">
-  <img src="https://raw.githubusercontent.com/harsh589/harsh589/main/assets/hanging-spiderman.svg" width="140" alt="Hanging Spider-Man" />
-</div>
 
 <!-- ===================== SOCIAL BADGES ===================== -->
 <div align="center">
@@ -34,10 +31,8 @@
 <br />
 
 <!-- ===================== PROFILE VIEWS + FOLLOWERS ===================== -->
-<div align="center">
-  <img src="https://komarev.com/ghpvc/?username=harsh589&label=Profile%20Views&color=FF0000&style=flat" alt="Profile Views" />
-  <img src="https://img.shields.io/github/followers/harsh589?label=Followers&style=social" alt="Followers" />
-  <img src="https://img.shields.io/github/stars/harsh589?label=Stars&style=social" alt="Stars" />
+<div align="right" style="margin-top:-70px;">
+  <img src="https://raw.githubusercontent.com/harsh589/harsh589/main/assets/hanging-spiderman.svg" width="140" alt="Hanging Spider-Man" />
 </div>
 
 ---
