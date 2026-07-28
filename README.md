@@ -8,9 +8,7 @@
 
 
 <!-- ===================== HANGING SPIDER-MAN 🕷️ ===================== -->
-<div align="right" style="margin-top:-70px;">
-  <img src="https://raw.githubusercontent.com/harsh589/harsh589/main/assets/hanging-spiderman.svg" width="140" alt="Hanging Spider-Man" />
-</div>
+
 <!-- ===================== TYPING INTRO ===================== -->
 <div align="center">
   <a href="https://github.com/harsh589">
